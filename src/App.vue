@@ -34,3 +34,5 @@ const prevImage = () => {
     </div>
   </div>
 </template>
+
+<style scoped></style>
